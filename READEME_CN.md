@@ -1,16 +1,21 @@
-TensorFlow Models
-This repository contains a number of different models implemented in TensorFlow:
+# TensorFlow Models
 
-The official models are a collection of example models that use TensorFlow's high-level APIs. They are intended to be well-maintained, tested, and kept up to date with the latest stable TensorFlow API. They should also be reasonably optimized for fast performance while still being easy to read. We especially recommend newer TensorFlow users to start here.
+此存储库包含在其中实现的许多不同的 [TensorFlow](https://www.tensorflow.org)模型:
 
-The research models are a large collection of models implemented in TensorFlow by researchers. They are not officially supported or available in release branches; it is up to the individual researchers to maintain the models and/or provide support on issues and pull requests.
+[official models](official) 官方模型是使用TensorFlow的高级api的示例模型的集合。它们得到良好的维护、测试和最新的稳定的TensorFlow API。它们还易于阅读的同时，为提高快速性能进行合理的优化。我们特别推荐新的TensorFlow用户从这里开始.
 
-The samples folder contains code snippets and smaller models that demonstrate features of TensorFlow, including code presented in various blog posts.
+The [research models](https://github.com/tensorflow/models/tree/master/research) [研究模型]是研究人员在TensorFlow中实现的大量模型集合。它们在发布分支中没有得到官方支持或认可;维护模型和/或在问题上提供支持和拉取请求由个别研究人员决定
 
-The tutorials folder is a collection of models described in the TensorFlow tutorials.
+The [samples folder](samples)[samples文件夹]包含代码片段和更小的模型，这些模型演示了TensorFlow的特性，包括各种博客文章中提供的代码。
 
-Contribution guidelines
-If you want to contribute to models, be sure to review the contribution guidelines.
+The [tutorials folder](tutorials)[教程文件夹](教程)是[TensorFlow教程]中描述的模型的集合
 
-License
-Apache License 2.0
+## Contribution guidelines
+
+如果您想为模型做贡献，请务阅读贡献指引md文档 [contribution guidelines](CONTRIBUTING.md).
+
+
+## License
+
+[Apache License 2.0](LICENSE)
+
